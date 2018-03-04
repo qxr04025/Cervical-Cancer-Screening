@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pychram
+.idea/
+
+# dataset
+
+# models
